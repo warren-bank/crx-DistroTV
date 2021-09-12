@@ -1,0 +1,1557 @@
+https://www.distro.tv/
+
+https://tv.jsrdn.com/epg/query.php?id=35967&range=current
+https://tv.jsrdn.com/epg/query.php?id=35967&range=now,24h
+https://tv.jsrdn.com/epg/query.php?id=35967&range=-24h,now
+https://tv.jsrdn.com/epg/query.php?id=35967&range=-12h,12h
+
+--------------------------------------------------------------------------------
+
+https://tv.jsrdn.com/epg/query.php?range=current&id=49342,38300,50995,45143,8087,18203,55810,37684,33813,55457,45143,25045,49342,45143,27440,34008,24375,39081,32784,58240,55878,64501,48682,50995,36454,25454,42160,33227,47238,49342,20022,42165,12860,28953,46436,42161,43912,43914,42168,42164,39730,20021,15662,37561,15679,37810,39046,53380,56052,64138,2893,2845,2846,55878,58240,2848,56111,13442,37560,39397,34652,20024,38154,52253,55810,64138,37684,39729,24928,33813,43219,42369,41373,34009,46435,40431,39344,56784,56785,56863,42162,64266,64267,64268,64269,64270,64271,28301,36611,8087,39894,43797,11555,32455,16040,52505,54754,60366,64191,51671,40432,39895,29218,25982,41326,10815,11065,39399,45783,51531,15976,42167,11063,42136,48578,51308,20023,38300,39081,21182,11064,10953,33414,21310,47476,18203,51535,28213,43913,51534,29199,40430,34007,19793,40434,47646,56253,56111,55592,55457,55004,52995,53038,45144,44436,40433,17080,39398,39064,35977,42163,55592,35967,35968,35970,35971,39066,39067,39069,39070,39071,39072,39073,39065,39064,39062,39061,39060,39059,39058,39057,39056,39074,17080,2893,56052,56494,39068,39063,51848,42368,35969,42166,25045,25089,25102,25455,25073,35973,35972,35979,35978,35977,35981,35976,35975,35974,35980
+
+{
+    "version": "1.0",
+    "env": {
+        "st": "2021-09-09 06:14:02"
+    },
+    "epg": {
+        "49342": {
+            "title": "CineLife",
+            "description": "CineLife, the destination for top-rated independent films and award-winning documentaries.",
+            "slots": [{
+                "title": "Beyond the Black Rainbow",
+                "description": "Held captive in a specialized medical facility, a young woman with unique abilities seeks a chance to escape her obsessed captor.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:10:00",
+                "end": "2021-09-09 07:26:00"
+            }]
+        },
+        "38300": {
+            "title": "MagellanTV Now",
+            "description": "Documentaries worth watching - streaming 24 \/ 7",
+            "slots": [{
+                "title": "Art Trafficking: A Grey Market",
+                "description": "Trafficked antiquities are rampant on the world’s black markets, which surprisingly then feeds the legal art market. Galleries and museums are flooded, and these practices deprive nations of their cultural heritage. Now, pillaged countries are demanding r",
+                "raiting": null,
+                "img_thumbh": "https:\/\/dki01q1l7yn3y.cloudfront.net\/thumbnails-platform-prod\/assets\/cs::content::episodes\/438-2486\/Art-Trafficking--A-Grey-Market-Art-Trafficking--A-Grey-Market-1080-jpg.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "50995": {
+            "title": "Bloomberg Quicktake",
+            "description": "Bloomberg Quicktake is streaming news for a global view and an informed take. Watch live news on the stories changing your business and your world, powered by 2700 journalists in 120 countries.",
+            "slots": []
+        },
+        "45143": {
+            "title": "EuroNews",
+            "description": "Europe’s leading international news channel. Its mission is to empower people to form their own opinion. Euronews is impartial with a diversity of viewpoints.",
+            "slots": [{
+                "title": "All News Edition",
+                "description": "The leading news stories of the moment.",
+                "raiting": "Family",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p12961336_i_s2_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:14:00"
+            }]
+        },
+        "8087": {
+            "title": "FTF",
+            "description": "For the Fans is an emerging worldwide network offering engaging video content established to serve the passionate fan's appreciation for competition, sportsmanship, and performance. FTF features a 24\/7 broadcast, including live games & events, interviews, predictions, analysis, and a variety of dynamic, original programming.",
+            "slots": [{
+                "title": "ALPHA8 POKER SEASON 3 BELLAGIO PT 7",
+                "description": "ALPHA8 POKER SEASON 3 BELLAGIO PT 7",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:01",
+                "end": "2021-09-09 06:59:58"
+            }]
+        },
+        "18203": {
+            "title": "PeopleTV",
+            "description": "The celebrity news and entertainment network powered by the award-winning PEOPLE and Entertainment Weekly newsrooms. Viewers have unlimited, daily access to an expansive slate of programming which includes breaking news, live red-carpet coverage, exclusive behind-the-scenes access into magazine cover stories, popular cast reunions and high-profile, one-on-one celebrity interviews.",
+            "slots": [{
+                "title": "People in the '90s",
+                "description": "Bill Bellamy dishes on his 90s life as a stand-up comic; Margaret Cho shares how the 90s shaped her body image.",
+                "raiting": "TVG",
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "55810": {
+            "title": "Nosey",
+            "description": "Nosey is the FREE TV video app with full episodes of the best of Maury Povich, Jerry Springer, Steve Wilkos, Sally Jessy Raphael, Joan Rivers, Trisha Goddard, and much, much more!",
+            "slots": [{
+                "title": "Ex-Lovers Confronted",
+                "description": "Did Chris and Shawn move to avoid his ex or hide his activities? Jerome explains why he cheats on his wife!",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:37:00",
+                "end": "2021-09-09 06:24:00"
+            }]
+        },
+        "37684": {
+            "title": "World Poker Tour",
+            "description": "World Poker Tour ignited the global poker boom with a unique television show based on a series of high-stakes tournaments. WPT events turned Gus Hansen into the Great Dane and Daniel Negreanu into Kid Poker, and created dozens of poker-made millionaires.",
+            "slots": [{
+                "title": "World Poker Tour",
+                "description": "Borgata Poker Open - Part 3",
+                "raiting": null,
+                "img_thumbh": "https:\/\/streaming002.muxip.com\/file\/thumbnail\/b585d6f2-f206-4166-8024-5398151ab172",
+                "start": "2021-09-09 05:35:52",
+                "end": "2021-09-09 06:32:04"
+            }]
+        },
+        "33813": {
+            "title": "Kaloopy",
+            "description": "The California Lifestyle Channel for Guys. We present the hottest Eye Candy models in fashion and entertainment. The Kaloopy Channel features beautiful models in a variety of gorgeous locations dancing and moving to house music. The channel blends eye-catching beauty with elements of surfing, skating, art, studio, lifestyle and cars.",
+            "slots": [{
+                "title": "Kaloopy - Moving Liquid 2",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:12:47",
+                "end": "2021-09-09 06:14:38"
+            }]
+        },
+        "55457": {
+            "title": "Journy",
+            "description": "JOURNY is the only channel at the intersection of travel, art, and culture! Watch curated content focused on immersive experiences and unique storytelling.",
+            "slots": []
+        },
+        "25045": {
+            "title": "Fireplace Lounge",
+            "description": "Enjoy Cozy Fireplaces with Crackling or Relaxing Music.",
+            "slots": [{
+                "title": "Ambient Fireplace With Music & Crackling",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:24:18",
+                "end": "2021-09-09 06:36:32"
+            }]
+        },
+        "27440": {
+            "title": "Newsmax TV",
+            "description": "Newsmax covers the latest developments in politics, national and world news, health, faith, personal finance, and technology with a unique American perspective and topics that the major media often ignore.",
+            "slots": [{
+                "title": "Rob Schmitt Tonight",
+                "description": null,
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "34008": {},
+        "24375": {},
+        "39081": {
+            "title": "Law & Crime",
+            "description": "From the high-profile cases to the most compelling local trials, Law&Crime features daily trial coverage from around the country along with expert legal commentary and analysis. Original legal and true crime programs include The Law & Crime Report and Brian Ross Investigates.",
+            "slots": [{
+                "title": "CA v. Robert Durst",
+                "description": "Robert Durst stands trial for the 2000 murder of friend Susan Berman.",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p19953893_b_h10_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "32784": {},
+        "58240": {},
+        "55878": {},
+        "64501": {},
+        "48682": {
+            "title": "Bloomberg Television",
+            "description": "Bloomberg Television delivers business and markets news, data, analysis, and video to the world, featuring stories from Businessweek and Bloomberg News.",
+            "slots": [{
+                "title": "Bloomberg Markets European Open",
+                "description": "Bloomberg Markets European Open. Live from London, is focused on bringing you the most important global business and breaking markets news and information as it happens.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 08:00:00"
+            }]
+        },
+        "36454": {
+            "title": "TD Ameritrade Network",
+            "description": "The TD Ameritrade Network creates timely, relevant content by interpreting market news and conditions for today’s investor. Real-time, practical, and sans political bias, the TD Ameritrade Network educates and empowers viewers with actionable tips, facts, trends...without all the filler and noise. Say goodbye to status-quo financial programming. Say hello to a new way of watching the news.",
+            "slots": [{
+                "title": "Fast Market",
+                "description": "Hosts Alex Coffey and Kevin Hincks break down the market; providing in-depth insights for Intermediate to Advanced Traders on how to interpret current market activity. Technical market specialists, analysts and outside guests join the program, giving their take on different markets. Fast Market has segments designed to keep you in tune to the markets, sectors, and various products that interest you.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:30:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "25454": {
+            "title": "Real Vision",
+            "description": "Real Vision examines finance, business and the global economy with videos and reports that provide real in-depth analysis from real experts.",
+            "slots": [{
+                "title": "The Kyle Bass Interviews: Stephen K. Bannon's China Warning",
+                "description": "Stephen K. Bannon, former White House Chief Strategist, sits down with hedge fund giant Kyle Bass to discuss America’s current geopolitical landscape regarding China. Bannon and Bass take a deep dive into Chinese infiltration in U.S. institutions, China’s aggressiveness in the South China sea, and the potential for global conflict in the next few years. Filmed on October 5, 2018 at an undisclosed location.",
+                "raiting": "G",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:14:27",
+                "end": "2021-09-09 06:24:33"
+            }]
+        },
+        "42160": {},
+        "33227": {
+            "title": "Entrepreneur",
+            "description": "Entrepreneurs have 60 seconds to pitch a business idea to a boardroom of investors.",
+            "slots": [{
+                "title": "Elevator Pitch",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:54:11",
+                "end": "2021-09-09 06:23:33"
+            }]
+        },
+        "47238": {
+            "title": "Black Enterprise",
+            "description": "Your ultimate source to build Wealth for Life, is the premier business, investing, and wealth-building resource for Black Americans.",
+            "slots": [{
+                "title": "African Americans and Aging: Do Older Black Lives Matter?",
+                "description": "The two hardest populations hit hardest by the COVID-19 by virtually every measure are Americans 65 and older, and Black people, resulting in greater death and hospitalization rates for African American seniors. AARP thought leader and BE Modern Man of Distinction Jean Accius explains the challenges—ranging from mental wellness, to ageism and economic insecurity, to disparities in quality and access to health care—facing older generations of Black Americans.",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:46:39",
+                "end": "2021-09-09 06:41:48"
+            }]
+        },
+        "20022": {
+            "title": "CONtv",
+            "description": "A pop culture, nostalgia TV and Movies channel with a minimum of 500 individual titles or\r\nepisodes.",
+            "slots": [{
+                "title": "Yu-Gi-Oh! 5D's",
+                "description": "The shadow duels between Sayer & Carly and Akiza & Misty continue.",
+                "raiting": "C8",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p7974345_e_s2_aa.jpg",
+                "start": "2021-09-09 06:03:00",
+                "end": "2021-09-09 06:31:00"
+            }]
+        },
+        "42165": {},
+        "12860": {
+            "title": "The Film Detective",
+            "description": "The Film Detective",
+            "slots": [{
+                "title": "Attack From Space",
+                "description": "Re-edited from the short film series \"Super Giant.\"",
+                "raiting": null,
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p92273_i_s1_aa.jpg",
+                "start": "2021-09-09 05:12:00",
+                "end": "2021-09-09 06:29:00"
+            }]
+        },
+        "28953": {
+            "title": "Lone Star",
+            "description": "The Film Detective",
+            "slots": [{
+                "title": "Young Buffalo Bill (1940)",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:59:50",
+                "end": "2021-09-09 06:14:37"
+            }]
+        },
+        "46436": {
+            "title": "Christmas Classics",
+            "description": "Tune in to the Christmas Classics channel to fulfill your appetite for Yuletide nostalgia. We’ve cultivated a binge-worthy list of timeless greats including Christmas episodes from The Beverly Hillbillies, Annie Oakley, and even a surprise appearance by Liberace! From classic characters like Charles Dickens’ Ebenezer Scrooge, to childhood favorites like Rudolph the Red-Nosed Reindeer, we hope you’ve got your blanket and eggnog close by—you won’t want to miss a second of holiday joy!",
+            "slots": [{
+                "title": "FL-Christmas Comes But Once a Year",
+                "description": "        ",
+                "raiting": null,
+                "img_thumbh": "https:\/\/img.static-ottera.com\/prod\/ottpri\/video\/thumbnails\/widescreen\/1920x1080\/fl-christmascomesbutonceayear_landscape_1920x1080.jpg",
+                "start": "2021-09-09 05:49:20",
+                "end": "2021-09-09 06:23:18"
+            }]
+        },
+        "42161": {},
+        "43912": {
+            "title": "Revry",
+            "description": "Live LGBTQ+ TV with a focus on lifestyle and entertainment for the whole family.",
+            "slots": [{
+                "title": "Why Can't I Be Me? Around You",
+                "description": "Rusty Tidenberg, drag-racing aficionado, shocked friends and family by coming out as trans. Followed for 8 years by filmmaker Harrod Blank (son of Les Blank), Rusty guides us through the aftermath of her transition. Interwoven with lively tales of gender non-conforming individuals on the art-car circuit, Blank’s film is a sensitive and unpredictable love letter to people who fight to be unapologetically themselves.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:00:19",
+                "end": "2021-09-09 07:00:19"
+            }]
+        },
+        "43914": {
+            "title": "OML on Revry",
+            "description": "Welcome to OML on Revry, the first 24\/7 live TV channel exclusively catering to queer Womxn. Enjoy Femxle focused movies, television and digital series.",
+            "slots": [{
+                "title": "Our Body",
+                "description": "An over-educated, disenchanted woman, Ja Young, loses her ambition after many grueling years of studying for the public official exam. One lonely evening, a beautiful, fit runner, Hyun Joo, glides smoothly past her. Intrigued by this celestial vision of harmony and grace, Ja Young repeatedly returns, hoping to meet the object of her curiosity.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:06:07",
+                "end": "2021-09-09 07:53:07"
+            }]
+        },
+        "42168": {},
+        "42164": {},
+        "39730": {
+            "title": "24 Hour Free Movies",
+            "description": "24 Hour Free Movies brings you a growing collection of popular movies and TV shows from around the world.  Always Free . . . Always Fun.",
+            "slots": [{
+                "title": "The Knot",
+                "description": "Soul-mates Alexandra and Jeremy are getting married. At least that’s the plan. Unfortunately for them, nonchalant best man Peter, bridesmaid Sarah and an army of nay-sayers don’t believe they are meant to be together. Can missing bridesmaids, crashed cars, a trip to the ER, and a delivery of pig testicles stand in the way of true love? Starring Talulah Riley, Mena Suvari, Noel Clarke",
+                "raiting": null,
+                "img_thumbh": "https:\/\/streaming002.muxip.com\/file\/thumbnail\/5f62b65a-2743-413e-afb8-4fcd4c527165",
+                "start": "2021-09-09 04:42:07",
+                "end": "2021-09-09 06:53:13"
+            }]
+        },
+        "20021": {
+            "title": "Dove Channel",
+            "description": "A family-friendly and faith-based network featuring TV series and Movies that are safe for\r\nthe entire family, consisting of a minimum of 500 individual titles or episodes.",
+            "slots": [{
+                "title": "The Adventures of Swiss Family Robinson",
+                "description": "David rescues Moya after the shaman casts a dark spell on her.",
+                "raiting": "12",
+                "img_thumbh": null,
+                "start": "2021-09-09 05:54:00",
+                "end": "2021-09-09 06:27:00"
+            }]
+        },
+        "15662": {
+            "title": "Movie Kingdom",
+            "description": "Movie Kingdom Pictures is a full service provider of independent film, television, and web content to the entertainment industry.",
+            "slots": [{
+                "title": "The Knock",
+                "description": "Mia tries to reconnect with Sean but their reunion takes an unexpected turn for the worse.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/dstroscal1.s.llnwi.net\/public\/hls\/22731\/anacostia\/the-knock-1_thumbh_20190802_230955.jpg",
+                "start": "2021-09-09 06:03:06",
+                "end": "2021-09-09 06:29:47"
+            }]
+        },
+        "37561": {
+            "title": "The Grid",
+            "description": "GRID is owned by Carl Jackson Motion Pictures Studios and is an urban pop themed network for all cultures. It features, movies, and series that are connected to the global pulse.",
+            "slots": [{
+                "title": "American Musicology",
+                "description": "Promotional Content",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 04:45:17",
+                "end": "2021-09-09 09:04:13"
+            }]
+        },
+        "15679": {
+            "title": "Monarch",
+            "description": "A domestic and international entertainment content sales agency that distributes Feature Films, single documentaries, TV Series and Webisodes on to TV, DVD, and Digital Platforms worldwide.",
+            "slots": [{
+                "title": "Dissolved: A Game of Truth",
+                "description": "A new no holds barred game where truth should be told, plagues 4 friends with an already volatile history. But, when one of them takes the game too seriously, honesty will NOT be the best policy.",
+                "raiting": "NR",
+                "img_thumbh": "https:\/\/dstroscal1.s.llnwi.net\/public\/hls\/22728\/dissolved-a-game-of-truth\/thumbh_20190610_234735.jpg",
+                "start": "2021-09-09 05:11:35",
+                "end": "2021-09-09 06:39:00"
+            }]
+        },
+        "37810": {
+            "title": "KweliTV",
+            "description": "400+ undiscovered, award-winning indie films, documentaries, web series & kids shows celebrating global black stories! Watch from anywhere in the world. #streamingfortheculture #ourculturecurated",
+            "slots": [{
+                "title": "Afro Germany",
+                "description": "In Afro Germany, Jana Pareigis takes us on a trip through Germany from its colonial past up to the present day, visiting other Black Germans to talk about their experiences",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:15:13",
+                "end": "2021-09-09 06:21:19"
+            }]
+        },
+        "39046": {},
+        "53380": {
+            "title": "Horror Machine",
+            "description": "Behold the granddaddy of all horror channels...not even the dybbuk box has the fear injecting power of Horror Machine! Horror Machine will keep you glued to the screen and curl your toes with serial killers, super psychos, zombies, werewolves, kung fu assassins and more!",
+            "slots": [{
+                "title": "Abducted by Aliens: UFO Encounters of the 4th Kind",
+                "description": "Are we being taken by beings from outer space or another dimension? A troubling phenomenon has been occurring for centuries – countless individuals have very real memories of being taken secretly against their will by Alien entities, many being subjected to complex physical and psychological procedures. A large number of experiencers tell tragic tales of being taken against their will which is frightening enough, but what if our own government is aware of abductions and is powerless to prevent it? What is the depth to this conspiracy and what do the government and military factions know? We may never know the full agenda of the beings responsible for alien abductions, however, with each new case we gain more knowledge of the alien agenda, and we become better prepared for the day when we will have full disclosure that we are clearly not alone. ONE LINER - Are we being taken by beings from outer space or another dimension? Countless individuals have very real memories of being taken secretly against their will by Alien entities. What is the depth to this conspiracy and what do the government and military factions know? We may never know the full agenda of the beings responsible for alien abductions, however, with each new case we gain more knowledge of the alien agenda, and we become better prepared for the day when we will have full disclosure that we are clearly not alone.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:30:00",
+                "end": "2021-09-09 06:45:00"
+            }]
+        },
+        "56052": {},
+        "64138": {
+            "title": "Arré",
+            "description": "Arré brings to you engaging videos, web series (fiction and non-fiction), investigative documentaries, audio series, reads, doodles and more.",
+            "slots": [{
+                "title": "Episode 5 | Season Finale",
+                "description": "Season Finale",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/22982\/official-chukyagiri\/episode-5-season-finale_thumbh_20210824_000404.jpg",
+                "start": "2021-09-09 05:48:00",
+                "end": "2021-09-09 06:19:03"
+            }]
+        },
+        "2893": {
+            "title": "BritAsia Live (US Pacific)",
+            "description": "BritAsiaTV is the UK’s only Television platform by British Asians for Asians around the world. It celebrates the South Asian Community, providing them a platform to showcase their talent in the music and entertainment sectors. Enjoy the live channel with a mix of eclectic programming, live events and entertainment from the worlds of music and movies.",
+            "slots": [{
+                "title": "",
+                "description": "",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:11:06",
+                "end": "2021-09-09 06:14:03"
+            }]
+        },
+        "2845": {},
+        "2846": {},
+        "2848": {},
+        "56111": {
+            "title": "Akaal Channel",
+            "description": "The Punjabi Language focused, and Sikhi based Akaal Channel running from September 2013 prides itself by following through with its core objective of “Delivering Sikh Values Worldwide”. Akaal Channel is a United Kingdom-based media outlet",
+            "slots": [{
+                "title": "Asa di waar",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:13:22",
+                "end": "2021-09-09 08:42:01"
+            }]
+        },
+        "13442": {
+            "title": "ElectricNOW",
+            "description": "Home of all your favorite genre shows from Electric Entertainment; Leverage, The Librarian, The Triangle and many many more. Movies, television shows and The Electric Surge video podcast Network, all in one place.",
+            "slots": [{
+                "title": "Futuresport",
+                "description": "In the year 2025, Tre Ramsey (Dean Cain) and his friend Fixx (Wesley Snipes) create a game dubbed \"Futurespor\" to settle gang conflicts in place of violence. Tre soon rises to the top, while Fixx drifts away when the game becomes a commercial phenomenon. But after a terrorist group is discovered to be planning an attack, Tre teams with his journalist ex-girlfriend (Vanessa L. Williams) and Fixx to challenge the criminals to a game that just might save the world.",
+                "raiting": "R",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p21314_b_v8_ab.jpg",
+                "start": "2021-09-09 05:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "37560": {
+            "title": "CJC Television Network",
+            "description": "CJC Television Network is owned by Carl Jackson Motion Pictures Studios and is a family-themed network reaching over 70 million homes in the U.S. It features movies, series, and inspirational music concerts.",
+            "slots": [{
+                "title": "Flow",
+                "description": "Promotional Content",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:03:39",
+                "end": "2021-09-09 06:48:49"
+            }]
+        },
+        "39397": {
+            "title": "Glewed The Vault",
+            "description": "Catch some of your favorites shows, from the golden era of television!",
+            "slots": [{
+                "title": "The Bob Cummings Show",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:56:51",
+                "end": "2021-09-09 06:28:24"
+            }]
+        },
+        "34652": {
+            "title": "Buzzr",
+            "description": "Game shows were the first Reality shows.  Real people.  Real drama.  Real excitement in real time and BUZZR is THE only place for cool, vintage game shows like the original Match Game, Classic Concentration, Supermarket Sweep and Family Feud.  So, whether you’re feeling nostalgic or are brand new to vintage game shows, check out BUZZR, and sign on to the most fun you can have with your clothes on.",
+            "slots": [{
+                "title": "Classic Concentration",
+                "description": "Two contestants match prizes in order to uncover and solve a picture puzzle for the chance to win a car in the \"Winner's Circle.\"",
+                "raiting": null,
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p220427_b_h10_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "20024": {
+            "title": "Comedy Dynamics",
+            "description": "A comedy network featuring stand-up comedy specials as well as comedic films and\r\ntelevision series with a minimum of 150 individual titles or episodes.",
+            "slots": [{
+                "title": "Bob Saget: That's What I'm Talkin' About",
+                "description": "Bob Saget takes to the stage with a filthy song in his heart as he lets loose and embraces the dark side as he tells his favorite dirty jokes and stories about his dad - the guy who made him like this.",
+                "raiting": "TVMA",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p9889497_b_s2_aa.jpg",
+                "start": "2021-09-09 05:57:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "38154": {
+            "title": "Humor Mill",
+            "description": "The only urban comedy channel that features stand up performances, sketches, documentaries, behind-the-scenes footage, one on one interviews and more.",
+            "slots": [{
+                "title": "OC The Bus Driver  Laffaholics  Ep 408",
+                "description": null,
+                "raiting": null,
+                "img_thumbh": "https:\/\/streaming002.muxip.com\/file\/thumbnail\/A52DAC68-A6A5-4BDD-A1B4-A2639211644A",
+                "start": "2021-09-09 06:00:47",
+                "end": "2021-09-09 06:18:23"
+            }]
+        },
+        "52253": {},
+        "39729": {
+            "title": "VENN",
+            "description": "A 24\/7 Network for Gaming & Culture",
+            "slots": [{
+                "title": "Episode 26",
+                "description": "Locked In will bring on esports players, streamers and more to dive deep into the world of competitive gaming.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "24928": {
+            "title": "CHIVE TV",
+            "description": "From the creators of theCHIVE, CHIVE TV is probably the best streaming channel in the world",
+            "slots": [{
+                "title": "Chive TV - 2510",
+                "description": "Impractical inventions, basketball trick shots, cool cake glazing art",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/131642.jpg",
+                "start": "2021-09-09 06:12:53",
+                "end": "2021-09-09 06:15:52"
+            }]
+        },
+        "43219": {
+            "title": "fw.tv",
+            "description": "Get Inspired with Firework, the world’s largest short-video platform on the open web, and discover the most entertaining short-videos made just for you. And, the experience will now be televised. It’s the mobile entertainment you’ve been waiting for whether it’s videos of traveling vistas, or better ways to workout, makeup, cook, and laugh that you can’t find anywhere else.",
+            "slots": [{
+                "title": "Real Sno19: Frank Bourgeois",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:13:44",
+                "end": "2021-09-09 06:14:14"
+            }]
+        },
+        "42369": {},
+        "41373": {
+            "title": "TronTV",
+            "description": "Travel and Lifestyle",
+            "slots": [{
+                "title": "Exploring Virgin Gorda in the British Virgin Islands",
+                "description": "Teri meets with Miss World BVI who tells her a little about the islands before they jump into their bikinis and explore the world famous Baths in Virgin Gorda. Teri later talks to Celebrity Chef Fed about what he's doing in Virgin Gorda for Restaurant Week.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/59578.jpg",
+                "start": "2021-09-09 06:09:07",
+                "end": "2021-09-09 06:16:30"
+            }]
+        },
+        "34009": {},
+        "46435": {
+            "title": "Esports Revolution",
+            "description": "ESR is the first 24\/7 esports channel in the USA, it features docuseries, talk shows, and tournaments, including the biggest games and names in esports.",
+            "slots": [{
+                "title": "Fareeha Overwatch",
+                "description": "Check out Fareeha as she hacks and soars her way through Overwatch!",
+                "raiting": null,
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p19283449_i_v8_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "40431": {
+            "title": "SKWAD",
+            "description": "...",
+            "slots": [{
+                "title": "ARENA ESPORTS - Arena Esports | GSL 2020 Season 1 Champion",
+                "description": "Starcraft 2 royalty TY and CURE approached the AfreecaTV main stage with strategies to beat the other. A one sided Terran vs Terran GSL grand final.",
+                "raiting": null,
+                "img_thumbh": "https:\/\/img.static-ottera.com\/prod\/tg\/video\/thumbnails\/widescreen\/1920x1080\/aesp_e0174-thumb_jpg_16x9_1920x1080-en.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:29:45"
+            }]
+        },
+        "39344": {
+            "title": "Dot Esports",
+            "description": "Premier global destination for coverage of competitive gaming.",
+            "slots": [{
+                "title": "VALORANT economy explained: Light Buy, Save Round, Full Buy | Dot Esports tips and tricks",
+                "description": "Today we will cover the importance of the VALORANT economy. For new players the buy menu can be overwhelming and we're here to help understand each aspect of the game. We explain terms like force buy, eco round, half buy, full buy, bonus round etc. Understanding these terms will put you miles ahead of your competition.\n\nTimecodes: \n0:00 - Intro \n0:35 -VALORANT Credits\n1:41 - How to spend your credits of each round\n2:04 - Eco round\n2:27 - When to light buying \n2:45 - What is force buying? \n3:02 - What is a full buy? \n3:41 - Pistol round buying \n4:15 - Second round : Spending credits or save credits\n4:40 - Bonus round\n4:58 - Remainder of the rounds\n5:08 - More helpful tips\n6:30 - Outro\n\n\nFollow us on Twitter: http:\/\/www.twitter.com\/dotesports\nLike us on Facebook: http:\/\/www.facebook.com\/dotesports\nRead more at our website: http:\/\/www.dotesports.com",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/137289.jpg",
+                "start": "2021-09-09 06:12:33",
+                "end": "2021-09-09 06:19:10"
+            }]
+        },
+        "56784": {
+            "title": "Billiard TV",
+            "description": "Billiard TV is your go-to network for everything billiards. Watch your favorite players from all over the world compete on the biggest billiards stage!",
+            "slots": [{
+                "title": "2020 DIAMOND LAS VEGAS OPEN",
+                "description": "The 2020 Diamond Las Vegas Open 10-Ball Championship from the Rio All Suites Hotel In Las Vegas, NV. Match #2 Skyler Woodward vs Carlo Biado",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 04:59:52",
+                "end": "2021-09-09 09:00:29"
+            }]
+        },
+        "56785": {
+            "title": "Fido TV",
+            "description": "FidoTV is 100% dedicated to dogs. Original programming includes episodes on specific breeds, training and behavioral issues, and rescue shows. The channel focuses on family-friendly content our best friends bring to our lives. All dogs, all day.",
+            "slots": [{
+                "title": "My Dog's Cancer: Changing the Journey ",
+                "description": null,
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:03",
+                "end": "2021-09-09 07:00:03"
+            }]
+        },
+        "56863": {
+            "title": "ArcadeCloud",
+            "description": "ArcadeCloud is home to hilarious animations inspired by your favorite games! Featuring the battle royale-based hit The Squad, Minecraft animations, Nintendo parodies, and so much more!",
+            "slots": [{
+                "title": "Fortnite Trios: CHAPTER 2 RECAP | Fortnite Animation",
+                "description": "It all started.. With a plot to take over the island. Wanna get caught up on everything that's happened in Chapter 2 so far? Then hop on into this funny Fortnite animation that follows our beloved Trios!! See how Ron, Jo and Drippley first met, took on Agency enemies, battled with their evil counterparts, and.. Got stuck in a time loop?! Jo teams up with other characters along the way like the Bushranger, Lynx, Fame, and more! All in time for the new Zero Point update in Chapter 2 Season 5!\r\nPlus Meowcles is here, so.. Obviously it's worth a watch.\n\nWriting: Annie Krueger\nVoices:\nJo-Abigail Bokun\nhttps:\/\/www.instagram.com\/l8torgator\nDrippley, Roach-Austin Cook\n(@austinjaycook & https:\/\/m.youtube.com\/user\/ozzyluvsyoyoXD) \nRon, Don-Stephen Pena\n(https:\/\/www.instagram.com\/stephenjpena\/?hl=en)\nForester- Kevin Andrew Rivera\nBabecat- Nicole Mackie\n(https:\/\/www.twitch.tv\/dudesquatch)\nMeowman-Terrance Nicholson\n(https:\/\/youtu.be\/766uCt8DOOI)\nShadow Bruce- Andrew Chan\nFame- Ify Nwadiwe (http:\/\/www.ifycomedy.com\/)\nGoldenface- Baldwin Williams\nCrash Test Dummy, Stella- Ashely Rapuano\nWave (Ocean Skin)- Aimee Smith ( https:\/\/twitter.com\/AimeeSmithVA & https:\/\/www.aimeesmithva.com\/ )\nMixing:\nJames OByrne\nAnimation: \n84 Animation Studio Sdn Bhd\n(www.84animationstudio.net)\nAndrew Chan\nOvni Vaca Studios\n\nWanna support ArcadeCloud? Use our Support-A-Creator Code: ArcadeCloudPlays in the Epic Games Store!\r\n\r\nBecome a Channel Member and get Squad Chat Badges! https:\/\/www.youtube.com\/channel\/UCYW45MHXiBHQ8KMK_79VwEQ\/join \r\n\r\nSubscribe for more ► http:\/\/bit.ly\/subArcadeCloud \r\nWant to be featured on ArcadeCloud? ► https:\/\/www.arcadecloud.com\/#anchor-link\r\nFollow us on Twitter ► https:\/\/twitter.com\/ArcadeCloud\r\nLike us on Facebook ► https:\/\/www.facebook.com\/ArcadeCloud \r\nCheck out our SnapChat Show ► https:\/\/www.snapchat.com\/discover\/Countdown\/4987127035\r\n\r\n#FortniteChapter2Season5 #Trios #Bushranger",
+                "raiting": "",
+                "img_thumbh": "https:\/\/i.ytimg.com\/vi\/Mk6ANO4ag2c\/maxresdefault.jpg",
+                "start": "2021-09-09 06:11:50",
+                "end": "2021-09-09 06:48:45"
+            }]
+        },
+        "42162": {},
+        "64266": {},
+        "64267": {},
+        "64268": {},
+        "64269": {},
+        "64270": {},
+        "64271": {},
+        "28301": {},
+        "36611": {
+            "title": "Whistle TV",
+            "description": "Sports and Lifestyle Entertainment for Today’s Fan",
+            "slots": [{
+                "title": "2Hype x Whistle",
+                "description": "Welcome to 2HYPE x Whistle! In this episode, the 2HYPE guys take to the outdoors in a camping special!",
+                "raiting": null,
+                "img_thumbh": "https:\/\/wurl-ingest-prod.s3.amazonaws.com\/411430\/51983210-0.png",
+                "start": "2021-09-09 06:01:00",
+                "end": "2021-09-09 07:01:00"
+            }]
+        },
+        "39894": {
+            "title": "FloSports",
+            "description": "FloSports, the innovator in live digital sports and original content, offers live and on-demand access to hundred of thousands of events across 25+ sports in the US and abroad. Underserved sports finally get the love they deserve.",
+            "slots": [{
+                "title": "Beyond The Routine: MyKayla Skinner (Episode 1)",
+                "description": "In the first episode of Beyond the Routine: Mykayla Skinner, we take a look at MyKayla's gymnastics career from her start as a toddler to making the senior national team. MyKayla is known as a daredevil and is not afraid to throw big skills. Additionally, she has incredible air sense and often makes those skills the first time she throws them. While she has this natural talent, she has had to work extremely hard to earn her spot in the eyes of Martha Karolyi and on the US National Team.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/137298.jpg",
+                "start": "2021-09-09 06:05:19",
+                "end": "2021-09-09 06:22:06"
+            }]
+        },
+        "43797": {
+            "title": "SportsGrid",
+            "description": "SportsGrid is the first 24-hour streaming sports channel with exclusive original programming providing news, odds, match-ups, and expert analysis.",
+            "slots": [{
+                "title": "Ferrall Coast to Coast",
+                "description": "Sports broadcaster Scott Ferrall shakes up the lines, providing expert analysis on the night's games. With game previews, insightful interviews, and a show full of hot takes.",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p17888584_b_h2_ad.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 08:00:00"
+            }]
+        },
+        "11555": {
+            "title": "World Of Free Sports TV",
+            "description": "World Of Free Sports TV",
+            "slots": [{
+                "title": "GlemmRide Bike Festival - Saalbach-Hinterglemm",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "https:\/\/dstroscal1.s.llnwi.net\/public\/hls\/22723\/world-of-free-sports\/glemmride-bike-festival-saalbach-hinterglemm_20191206_234157.jpg",
+                "start": "2021-09-09 06:01:42",
+                "end": "2021-09-09 06:34:55"
+            }]
+        },
+        "32455": {},
+        "16040": {},
+        "52505": {
+            "title": "Pro Football Focus",
+            "description": "PFF.com analyzes every player and every play of every game to deliver our exclusive player grades, performance stats, and rankings for the NFL, college, and fantasy football",
+            "slots": [{
+                "title": "PFF NFL Podcast: 2021 NFL Season Predictions! | PFF",
+                "description": "PFF analysts Steve Palazzolo and Sam Monson come on to predict the 2021 NFL Season.\n\nUse promo code KICKOFF30 for 30% off any PFF sub at PFF.com\n\n",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/137675.jpg",
+                "start": "2021-09-09 04:04:21",
+                "end": "2021-09-09 06:15:46"
+            }]
+        },
+        "54754": {
+            "title": "MotorRacing",
+            "description": "MotorRacing has the most exciting and diverse selection of motorsports racing on the planet – everything from customized vehicles, hot cars, mega trucks, motorcycles and more, racing on and off road, with a mix of speed, danger and pure motorized entertainment!",
+            "slots": [{
+                "title": "Monaco Historic Rally 2017",
+                "description": "Highlights from the 2017 Monaco Historic Rally.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/69616.jpg",
+                "start": "2021-09-09 05:48:25",
+                "end": "2021-09-09 06:53:11"
+            }]
+        },
+        "60366": {
+            "title": "Strongman Champions League",
+            "description": "The Strongman Champions League is the largest international Strongman competition. Taking place in premium venues across the globe with the very best champions and referees.",
+            "slots": [{
+                "title": "SCL Serbia",
+                "description": "The Strongman Champions League is the largest international Strongman competition. Taking place in premium venues across the globe with the very best champions and referees.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/22974\/strongman-champions-league\/strongman-champions-league-86_thumbh_20210721_225326.jpg",
+                "start": "2021-09-09 06:07:17",
+                "end": "2021-09-09 07:09:59"
+            }]
+        },
+        "64191": {
+            "title": "Unbeaten",
+            "description": "The mainstream sports channel that celebrates champions.",
+            "slots": [{
+                "title": "Against The Odds | Dave Brailsford",
+                "description": "Dave Brailsford, Alberto Contador, Eddy Merckx",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:34:00"
+            }]
+        },
+        "51671": {},
+        "40432": {
+            "title": "Channel Fight",
+            "description": "...",
+            "slots": [{
+                "title": "MMA Shredded - 8 MMA Combos",
+                "description": "",
+                "raiting": null,
+                "img_thumbh": "https:\/\/cdnapisec.kaltura.com\/p\/513551\/sp\/51355100\/thumbnail\/entry_id\/1_nsdwg77z\/version\/0\/vid_sec\/108\/width\/1920\/height\/1080\/type\/3?a.jpg",
+                "start": "2021-09-09 06:09:36",
+                "end": "2021-09-09 06:15:01"
+            }]
+        },
+        "39895": {
+            "title": "FloSports High Impact",
+            "description": "Your premiere destination for high impact sports such as wrestling, grappling, cycling, racing and rodeo. FloSports offers live and on-demand access to hundred of thousands of events across 25+ sports in the US and abroad.",
+            "slots": [{
+                "title": "Cornell Coaching Changes Didn't Deter Erik Gibson",
+                "description": "Cornell commit Erik Gibson recounts the time he heard Cornell would have a new coaching staff and walks us through his goals for his senior year.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/137313.jpg",
+                "start": "2021-09-09 06:11:25",
+                "end": "2021-09-09 06:19:54"
+            }]
+        },
+        "29218": {
+            "title": "Hard Knocks",
+            "description": "Hard Knocks is your go-to destination for MMA and Fighter action! With hundreds of live events,  Hard Knocks packages the ultimate \"must see\" entertaining fight night content available!\r\n\r\nWith a growing library of fight content and showcasing MMA action sports content, we feature the world’s elite and up and coming fight athletes!\r\n\r\nOur exciting fan thrilling fights are highly publicized, having been seen on ESPN, Dish, inDemand, Comcast, beIn Sport, The Fight Network and other channels around the world. Featuring athletes such as Ronda Rousey, Elias Theodorou, and Misha Cirkunov who've used Hard Knocks as a staging ground for their careers.",
+            "slots": [{
+                "title": "Hard Knocks",
+                "description": "The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.",
+                "raiting": null,
+                "img_thumbh": "https:\/\/streaming002.muxip.com\/file\/thumbnail\/c8bdd423-716a-47dd-9012-4d60f6400c43",
+                "start": "2021-09-09 03:43:43",
+                "end": "2021-09-09 07:00:25"
+            }]
+        },
+        "25982": {
+            "title": "MMA Junkie",
+            "description": "MMA news and highlights.",
+            "slots": [{
+                "title": "Aspen Ladd, after missing weight, says Leslie Smith won't accept UFC Atlantic City fight",
+                "description": "After she missed weight for UFC Fight Night 128, Aspen Ladd says her opponent, Leslie Smith, now has refused to accept the fight.",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:13:05",
+                "end": "2021-09-09 06:14:17"
+            }]
+        },
+        "41326": {
+            "title": "United Fight Alliance",
+            "description": "...",
+            "slots": [{
+                "title": "UFA - Shamrock FC 313",
+                "description": "UFA presents Shamrock FC from Ameristar Casino in Kansas City.  UFC veteran Bobby Voelker takes on knock-out artist Darrius Flowers in a welterweight showdown. ",
+                "raiting": "",
+                "img_thumbh": "https:\/\/dstroscal1.s.llnwi.net\/public\/hls\/22778\/united-fight-alliance\/ufa-shamrock-fc-313_thumbh_20191105_203636.jpg",
+                "start": "2021-09-09 05:25:00",
+                "end": "2021-09-09 06:40:03"
+            }]
+        },
+        "10815": {
+            "title": "Fighting Spirit TV",
+            "description": "Fighting Spirit TV",
+            "slots": [{
+                "title": "Enfusion Live 39",
+                "description": "The World Championships of Kickboxing.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/dstroscal1.s.llnwi.net\/public\/hls\/22696\/enfusion-live\/enfusion-live-39_20191206_234157.jpg",
+                "start": "2021-09-09 03:55:48",
+                "end": "2021-09-09 07:15:47"
+            }]
+        },
+        "11065": {
+            "title": "Sportskool TV",
+            "description": "Sportskool is a multi-platform suite of channels dedicated to sports lifestyle and entertainment programming for today’s active families. It’s where the biggest names in sports share the secrets to better performance, winning scores and bigger tricks.",
+            "slots": [{
+                "title": "Return of Serve",
+                "description": "Coaches Brad Gilbert and Bryan brothers prep you for the proper return of serve.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/dstroscal1.s.llnwi.net\/public\/hls\/22697\/tennis\/return-of-serve_20191206_234157.jpg",
+                "start": "2021-09-09 06:07:41",
+                "end": "2021-09-09 06:34:58"
+            }]
+        },
+        "39399": {
+            "title": "Glewed Yoga & Fitness",
+            "description": "Get your stretch on, and sweat with our virtual work out sessions!",
+            "slots": [{
+                "title": "LauraMyren",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:03:12",
+                "end": "2021-09-09 06:52:03"
+            }]
+        },
+        "45783": {
+            "title": "ONETV US",
+            "description": "Stay in and work out with ONETV US, the 24-hour fitness channel.  Get fit at home with fun, easy-to-follow yoga, strength building, weight loss, dance and cardio classes. Between workouts, wellness gurus offer inspiration and tips for healthy living.",
+            "slots": [{
+                "title": "Bollyfit-S1E9-Walk Forward Bounce Back-",
+                "description": "Host Reshmi Chetram combines her love of Bollywood with her fitness addiction, giving you the workout of your life while leaving you feeling like you've just been to a Bollywood party.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "51531": {
+            "title": "Wired2fish TV",
+            "description": "PASSIONATE ANGLING FOR THE DEDICATED ENTHUSIAST\r\nWIRED2fish TV features the best content from the biggest names & personalities in fishing.",
+            "slots": [{
+                "title": "Jarrett Edwards - Follow Up Bass",
+                "description": "Jarrett Edwards and Bobby Barrack tackle the California Delta in search of some cold font bass",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "15976": {
+            "title": "Outside TV",
+            "description": "The ultimate channel of adventure sports and outdoor lifestyle videos, proving high-quality, compelling storylines focused on a wide variety of sports including skiing & snowboarding, surfing, climbing, mountain biking, kayaking and more.",
+            "slots": [{
+                "title": "Living Stone - Ep. 105",
+                "description": "The couples move deeper into the beautiful Okavango Delta with empty stomachs.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "42167": {},
+        "11063": {
+            "title": "Horizon Sports",
+            "description": "Motivating the world to be more active in nature. The best selection of endurance sports, wellness and adventure films.",
+            "slots": [{
+                "title": "Freeride World Tour Hakuba 2019",
+                "description": "Steep powder slopes, spectacular off-piste runs, and awe-inspiring drops from huge cliffs: since 2008, the world’s leading freeride skiers and snowboarders have fought for the World Championship titles of the Freeride World Tour (FWT) every year. Delivering unforgettable images and top-notch athletic performances, the tour has become a key part of the international winter sports calendar. The World Champions in all categories will be crowned after 4 tour stops at the grande finale during the Xtreme Verbier in Switzerland. The 2019 FWT will take place in five fabulous ski stations praising some of the most fascinating venues on the planet. Tour locations include Hakuba (JPN), Kicking Horse Golden BC (CAN), Fieberbrunn (AUT), Vallnord-Arcalís (AND) and Verbier (SUI).",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/5300.jpg",
+                "start": "2021-09-09 05:51:08",
+                "end": "2021-09-09 06:26:26"
+            }]
+        },
+        "42136": {
+            "title": "ChopperTown",
+            "description": "Choppertown is the original blue-collar channel for gearheads. Featuring the best underground chopper docs, hot rod movies, and DIY builder series for the car & bike enthusiast. Stay independent.",
+            "slots": [{
+                "title": "America's Greatest Motorcycle Rallies  - E03 - Hog Heaven - River Run Wild - Laughlin",
+                "description": "The Laughlin, NV River Run. Join thousands of bikers on the river's edge in this video adventure of Laughlin's unique attractions. From the motorcycle sand drags and the street parties to the bikini dance shows and the spectacular Biker Build-Off, featuring some of the most expensive custom Choppers ever built, River Run Wild is a movie packed with thrills for the true motorcycle biker.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/54695.jpg",
+                "start": "2021-09-09 05:03:42",
+                "end": "2021-09-09 06:28:32"
+            }]
+        },
+        "48578": {
+            "title": "Operation Repo",
+            "description": "Take a look inside the fast-paced, high pressure world of car repossession with a team of highly trained professionals from California's San Fernando Valley.",
+            "slots": [{
+                "title": "Honor Rolling Away",
+                "description": "Honor Rolling Away",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/22932\/operation-repo\/honor-rolling-away_thumbh_20210130_021014.jpg",
+                "start": "2021-09-09 06:02:11",
+                "end": "2021-09-09 06:29:55"
+            }]
+        },
+        "51308": {
+            "title": "Documentary+",
+            "description": "Home to the world’s best documentaries -- from Academy Award winning classics and box office hits to festival darlings and cult favorites. Nonfiction storytelling at its best, curated by the best.",
+            "slots": [{
+                "title": "We Could Be Heroes",
+                "description": "Though Azzedine is a Paralympic champion, at home in Morocco, he is an outcast. Denied a salary or social care, even the right to train in the city stadium, Azzedine and his friend Yousef prepare for the next Paralympic Games in Rio, where they will be going for glory in the seated shot put.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/137328.jpg",
+                "start": "2021-09-09 05:50:43",
+                "end": "2021-09-09 07:31:17"
+            }]
+        },
+        "20023": {
+            "title": "Docurama",
+            "description": "The 1st documentary network. Enjoy features & TV series spanning arts, politics, science, music & history.  Docurama: Everything Else Is Pure Fiction.",
+            "slots": [{
+                "title": "House of Stronzo",
+                "description": "House of Stronzo chronicles the poignant quest of the charmingly eccentric Pete Cecere.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:15:00",
+                "end": "2021-09-09 06:18:00"
+            }]
+        },
+        "21182": {
+            "title": "IDG",
+            "description": "A channel that presents the quality content and context that matters in the technological landscape.",
+            "slots": [{
+                "title": "Ice Lake on desktops, $200 Intel GPU, Lisa Su to leave AMD? | The Full Nerd ep. 102",
+                "description": "Today's show dives into Gordon's preview of Intel Ice Lake in laptops and how that could translate to the desktop part, the prospect of Intel bringing a $200 GPU to the market, and rumors of Lisa Su leaving AMD for IBM.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/3617.jpg",
+                "start": "2021-09-09 04:39:14",
+                "end": "2021-09-09 06:32:00"
+            }]
+        },
+        "11064": {
+            "title": "The Boat Show",
+            "description": "The Boat Show is the most watched TV program in the world dedicated to nautical lovers and boat owners.",
+            "slots": [{
+                "title": "Genova Boat Show 2020 - Sailboats",
+                "description": "This new edition of the Genoa International Boat Show has many beautiful sailboats on display for every boating enthusiast. In this episode, our Antonio Vettese presents all the main new sailing boats seen at the event.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/61686.jpg",
+                "start": "2021-09-09 06:04:08",
+                "end": "2021-09-09 06:18:10"
+            }]
+        },
+        "10953": {
+            "title": "Titanic TV",
+            "description": "The Titanic Channel is the largest source for new Titanic information.",
+            "slots": [{
+                "title": "Surprises Inside Titanic: The Turkish Bath ",
+                "description": "Ken Marschall continues his series into the remarkable surprises he and James Cameron discovered on their 2001 and 2005 dives to Titanic.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/dstroscal1.s.llnwi.net\/public\/hls\/22719\/legacy-culture\/surprises-inside-titanic-the-turkish-bath_20191206_234157.jpg",
+                "start": "2021-09-09 05:56:45",
+                "end": "2021-09-09 06:14:29"
+            }]
+        },
+        "33414": {
+            "title": "Sword & Shield",
+            "description": "Sword & Shield gives you an up close and personal view of some of the US Military’s fastest, most powerful, precise and elite personnel and machinery. It will put you in virtual training as if you were the one in the cockpit flying an F-15 fighter jet, on an aircraft carrier navigating a 170 mph takeoff, 1,000 feet below the sea in a submarine nearing enemy territory or jumping from a C-17 aircraft 1,250 feet in the air. It’s a rare and exciting glimpse into the lives of the men and women who protect us. In the air, on the land, and across the sea. Soldiers of the U.S. Armed Forces demonstrate their skills, technology, and fighting spirit.",
+            "slots": [{
+                "title": "Sword & Shield, Episode 5",
+                "description": "Watch the amazing display of force and grace as these aircraft take off, fly high, and work to defend our freedom. ",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/41190.jpg",
+                "start": "2021-09-09 05:57:47",
+                "end": "2021-09-09 06:25:23"
+            }]
+        },
+        "21310": {},
+        "47476": {
+            "title": "Sightline",
+            "description": "The single largest collection of Military + History programming - Human tales that inspire. Stories that entertain. News that educates. Intel that informs.",
+            "slots": [{
+                "title": "Defense News Weekly: Sky Guard drone UAV begins development and testing",
+                "description": "Two Saudi Arabian companies have agreed to a deal to increase development and testing of the Sky Guard drone which can fly up to 18,000 feet.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "51535": {
+            "title": "Us Weekly TV",
+            "description": "Us Weekly, the priority destination for readers who love entertainment  news and style, beauty and lifestyle content through the lens of celebrity, now has Us Weekly TV. It features all-new series that provides breaking celebrity news, unique insights and exclusive interviews with today’s biggest stars as well as including the most intriguing celebrities taking part in a number of fun and revealing Us Weekly games, and the hottest reality TV scoops.",
+            "slots": [{
+                "title": "Playlist_B",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:11:33",
+                "end": "2021-09-09 06:14:03"
+            }]
+        },
+        "28213": {
+            "title": "Young Hollywood",
+            "description": "Discover the hottest new trends and watch exclusive interviews and awesome videos with all your favorite Young Hollywood celebrities.",
+            "slots": [{
+                "title": "Jake Paul Teases Fit & Walkout Music For Tyron Woodley Fight",
+                "description": "YouTube star discusses his upcoming boxing match against UFC champ Tyron Woodley at press conference for the event.",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/111714.jpg",
+                "start": "2021-09-09 06:10:12",
+                "end": "2021-09-09 06:16:11"
+            }]
+        },
+        "43913": {},
+        "51534": {
+            "title": "Zoomer TV",
+            "description": "A Boomer's guide to living well. News, movies, music, plus talks and tips from the world's most influential people on health and wellness, money, technology, travel, and sex and relationships.",
+            "slots": [{
+                "title": "Healing Yoga-S4E9-Lower Back-",
+                "description": "Certified instructor Deborah Devine presents a series of gentle, healing and strength building yoga poses designed for the lower back.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "29199": {
+            "title": "bspoketv",
+            "description": "Premier lifestyle channel, driven by the cultural conversations of global influencers, focused on beauty, fashion, food, travel, interviews, and more.",
+            "slots": [{
+                "title": "MyFitness RX (EP010)",
+                "description": null,
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:30:00"
+            }]
+        },
+        "40430": {
+            "title": "The Love Destination",
+            "description": "...",
+            "slots": [{
+                "title": "Déjà Vu",
+                "description": "Déjà Vu",
+                "raiting": null,
+                "img_thumbh": "https:\/\/cdnapisec.kaltura.com\/p\/513551\/sp\/51355100\/thumbnail\/entry_id\/1_woelb0jc\/version\/0\/vid_sec\/2340\/width\/1920\/height\/1080\/type\/3?a.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 08:00:00"
+            }]
+        },
+        "34007": {},
+        "19793": {
+            "title": "Popstar! TV",
+            "description": "Your Home for Pop Culture News & Entertainment",
+            "slots": [{
+                "title": "Buried Cain",
+                "description": "Five childhood friends try to keep their love lives and their past, from destroying their friendship as adults. Lies and secrets hold them together until Georgia returns home. Now, they must ask themselves-how far they will go for love?",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 05:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "40434": {
+            "title": "Cooking Panda",
+            "description": "...",
+            "slots": [{
+                "title": "Sizzlin' Seafood",
+                "description": "Sizzlin\" Seafood",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "47646": {
+            "title": "Best of British TV",
+            "description": "Best of British Television (BOB TV) presents authentic and beloved comedies, reality shows, documentaries, lifestyle and talk shows, and exciting programming from across the pond and beyond!",
+            "slots": [{
+                "title": "Gibratar_Britain_in_the_sun_s3e1",
+                "description": "With the weather turning from bad to worse it seems the roads have been transformed into a demolition derby and the frontline unit battles to keep the county moving. With the chopper overhead, the dog unit is dispatched to track down a driver involved in an accident, but will the irate father of the crash victim beat them to it? With Thanks to - ESSEX POLICE.",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:00:40",
+                "end": "2021-09-09 06:53:09"
+            }]
+        },
+        "56253": {
+            "title": "Circle",
+            "description": "Your new home for country music, southern lifestyle, and entertainment.",
+            "slots": [{
+                "title": "Tennessee Ernie Ford, Merle Travis, Connie Smith",
+                "description": "Special Guests: Tennessee Ernie Ford, Merle Travis, Connie Smith",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:59:00"
+            }]
+        },
+        "55592": {
+            "title": "WappTV",
+            "description": "WappTV creates cultural change via gender perspective, participation and collaboration, moving to a more open, friendly community.\r\nWappTV contribuye a crear un cambio cultural con Perspectiva de Genero y Colaborativo que nos permita tener una sociedad mas abierta, amable y participativa.",
+            "slots": [{
+                "title": "Patricia Ovalle Fundadora de Manos a la Aguja",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "https:\/\/mdstrm.com\/thumbs\/5fc4f2223f549b07bc73cc1a\/thumb_602bf6c57f02e1396ab6180d_602bf6c57f02e1396ab6181b_66s.jpg",
+                "start": "2021-09-09 06:05:25",
+                "end": "2021-09-09 06:18:58"
+            }]
+        },
+        "55004": {
+            "title": "Wisecrack",
+            "description": "“Wisecrack explores the smart side of pop culture. Get the scoop on the philosophy behind your favorite shows, or what went wrong with some of Hollywood's biggest disasters.”",
+            "slots": [{
+                "title": "Tenet: What Went Wrong?",
+                "description": "We love Christopher Nolan. So why did we all hate Tenet? We think it has a lot to do with some basic lessons you'd learn in any decent Screenwriting 101 class, or by watching one of his other movies like Inception or The Prestige. We'll explain in this Wisecrack Edition on Tenet: What Went Wrong?",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/69663.jpg",
+                "start": "2021-09-09 06:08:53",
+                "end": "2021-09-09 06:33:14"
+            }]
+        },
+        "52995": {},
+        "53038": {
+            "title": "Fuse",
+            "description": "Fuse Backstage is where artists come to play. Superstars and emerging talent light up this collection of music bios, performances, interviews, news, docs, reality shows, films and specials. For music enthusiasts and fans of cutting-edge stories, Fuse Backstage is oversized and overstuffed with legendary artists and fresh new talent.",
+            "slots": [{
+                "title": "Bronx Beauty",
+                "description": "A Bronx beauty hits the floor looking for love. Will one of our dancers have the power to win her heart?",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 06:26:00"
+            }]
+        },
+        "45144": {
+            "title": "EuroNews Español",
+            "description": "El único canal de noticias internacional con una perspectiva europea. Su misión es permitir que cada uno se forme su propia opinión. Euronews se define por su imparcialidad e independencia.",
+            "slots": [{
+                "title": "Good Morning Europe",
+                "description": "Disfruta del programa matutino de \"Euronews\" con las noticias de Ãºltima hora, con reportajes periodÃ­sticos y anÃ¡lisis sociales sobre los grandes temas que afectan a Europa.",
+                "raiting": "Family",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p15820959_b_v10_aa.jpg",
+                "start": "2021-09-09 06:11:00",
+                "end": "2021-09-09 06:23:00"
+            }]
+        },
+        "44436": {
+            "title": "MooviMex",
+            "description": "Enjoy an assortment of Mexican action, comedy and variety movies free!",
+            "slots": [{
+                "title": "El Comandante Antrax",
+                "description": "El Comandante Antrax",
+                "raiting": "",
+                "img_thumbh": "https:\/\/d14c63magvk61v.cloudfront.net\/hls\/ep_thumb\/60014.jpg",
+                "start": "2021-09-09 04:32:04",
+                "end": "2021-09-09 06:36:16"
+            }]
+        },
+        "40433": {
+            "title": "Canela TV",
+            "description": "...",
+            "slots": [{
+                "title": "La Fórmula De Rasputín",
+                "description": "En una vecindad de la gran metrópoli, Don Otilio, boticario de mucha fama, descubre un remedio para los males cardíacos, que le traerá muchos problemas a los que lo toman.",
+                "raiting": null,
+                "img_thumbh": "https:\/\/img.static-ottera.com\/prod\/cnm\/video\/thumbnails\/widescreen\/1920x1080\/la-formula-de-rasputin-1920x1080px-cris.jpg",
+                "start": "2021-09-09 06:03:51",
+                "end": "2021-09-09 07:57:32"
+            }]
+        },
+        "17080": {
+            "title": "Latido Music",
+            "description": "The #1 TV network for fans of all genres of Latin Music. Enjoy the best music videos, the latest news, talk and reality shows, documentaries and everything you want to know about Latin culture!",
+            "slots": [{
+                "title": "Shuffle",
+                "description": "Una experiencia diferente cada dÃ­a de la semana.",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "39398": {
+            "title": "Glewed TV Spanish",
+            "description": "Catch up on some unique and intriguing, Spanish language content.",
+            "slots": [{
+                "title": "Escandalos",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:13:08",
+                "end": "2021-09-09 07:00:00"
+            }]
+        },
+        "39064": {},
+        "35977": {
+            "title": "Éxitos del Momento",
+            "description": "Dance along to today's hottest Latin music in genres such as salsa, samba, merengue, flamenco, tango, reggaeton, and reggae.",
+            "slots": [{
+                "title": "Exitos del Momento",
+                "description": null,
+                "raiting": null,
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p19043513_st_h2_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "42163": {},
+        "35967": {
+            "title": "Qello",
+            "description": "Stingray Qello presents your front-row seat to concerts by your favorite artists, bands, and musicians! Experience the encore with thrilling concert-films and get up close and personal with award-winning documentaries.",
+            "slots": [{
+                "title": "Limp Bizkit - Main Square 2011",
+                "description": "Limp Bizkit live concert at Main Square festival 2011.",
+                "raiting": null,
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p20214545_st_v8_aa.jpg",
+                "start": "2021-09-09 05:30:00",
+                "end": "2021-09-09 06:33:00"
+            }]
+        },
+        "35968": {
+            "title": "Karaoke",
+            "description": "Gather with friends to sing your heart out to your favorite tracks with Stingray Karaoke. From yesterday’s golden oldies to today’s hits, we got you!",
+            "slots": [{
+                "title": "Stingray Karaoke",
+                "description": "Tracks from Taylor Swift, Adele, Queen, Disney, and more, including today's hits and yesterday's golden oldies.",
+                "raiting": null,
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p17703882_st_h2_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35970": {
+            "title": "Classica",
+            "description": "Stingray Classica presents the most beloved masterpieces, breathtaking ballets, opulent operas, and enchanting chamber music! Start your classical music journey now to enjoy spectacular performances, recorded in the world’s grandest venues, featuring world-class conductors, singers, and soloists.",
+            "slots": [{
+                "title": "Stingray Classica",
+                "description": null,
+                "raiting": "14",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p18279797_b_v8_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35971": {},
+        "39066": {},
+        "39067": {},
+        "39069": {},
+        "39070": {},
+        "39071": {},
+        "39072": {},
+        "39073": {},
+        "39065": {},
+        "39062": {},
+        "39061": {},
+        "39060": {},
+        "39059": {},
+        "39058": {},
+        "39057": {},
+        "39056": {},
+        "39074": {},
+        "56494": {
+            "title": "Loop Music Videos",
+            "description": "Loop Music Videos plays the biggest and most popular music videos from all genres and all eras.  From classics to country, from Hip Hop to Pop, from R & B to Rock, only the Loop Music Videos channel has all the best music videos all in one place.  Tune in, turn it up and enjoy!",
+            "slots": [{
+                "title": "worldâs best videos",
+                "description": "worldâs best videos",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 08:00:00"
+            }]
+        },
+        "39068": {},
+        "39063": {},
+        "51848": {
+            "title": "Quietude 4K",
+            "description": "Gain a state of zen, relaxation and calmness. Quietude 4K features a 100% 4k visual & audible experience like no other.",
+            "slots": [{
+                "title": "Babbling Brooks",
+                "description": "Calming creekside nature scenes",
+                "raiting": null,
+                "img_thumbh": null,
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 09:00:00"
+            }]
+        },
+        "42368": {},
+        "35969": {},
+        "42166": {},
+        "25089": {
+            "title": "Relaxing Rain",
+            "description": "Enjoy Calm Rain Showers with Ambient Music or Rain Sounds.",
+            "slots": [{
+                "title": "Calm Rain With Music",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:07:05",
+                "end": "2021-09-09 06:19:49"
+            }]
+        },
+        "25102": {
+            "title": "Island Escape",
+            "description": "Enjoy Exotic Beaches with Calming Waves or Island Music.",
+            "slots": [{
+                "title": "Caribbean Beach With Music & Waves",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 06:04:30",
+                "end": "2021-09-09 07:16:56"
+            }]
+        },
+        "25455": {
+            "title": "Tranquil Thunderstorms",
+            "description": "Enjoy Relaxing Thunderstorms with Ambient Music or Rain Sounds.",
+            "slots": [{
+                "title": "Oceanside Thunderstorm ",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:30:30",
+                "end": "2021-09-09 06:44:41"
+            }]
+        },
+        "25073": {
+            "title": "Fish Tank",
+            "description": "Enjoy Tropical Fish with Calm Ocean Sounds or Island Music.",
+            "slots": [{
+                "title": "Calming Jellyfish With Music",
+                "description": "",
+                "raiting": "",
+                "img_thumbh": "",
+                "start": "2021-09-09 05:23:06",
+                "end": "2021-09-09 06:37:49"
+            }]
+        },
+        "35973": {
+            "title": "Hot Country",
+            "description": "Hot Country rounds up brand new country hits and favorites from the past decade.",
+            "slots": [{
+                "title": "Stingray Hot Country",
+                "description": "Today's country music is on fire, and it keeps getting hotter. Hot Country rounds up your favorite hits of the past decade from the biggest stars: Taylor Swift, Blake Shelton, Lady Antebellum, Carrie Underwood, Keith Urban, and more.",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p17667689_st_h2_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35972": {
+            "title": "Hit List",
+            "description": "Tune in for a dose of today’s hits and a preview of tomorrow’s sensations. You’ll discover the next chart-toppers before everyone else!",
+            "slots": [{
+                "title": "Stingray Hit List",
+                "description": "Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p17667663_i_h8_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35979": {
+            "title": "HipHop and RnB",
+            "description": "Turn up the volume on the grittiest sounds of today's hip hop scene, featuring hits by Beyoncé, T-Pain, Rick Ross, Nicki Minaj, etc.",
+            "slots": [{
+                "title": "Stingray Hip-Hop\/R&B",
+                "description": "Rap, Hip Hop and contemporary R&B. Old school to new school.",
+                "raiting": "TV14",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p18577210_st_v9_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35978": {
+            "title": "Greatest Hits",
+            "description": "A channel filled with the greatest hits by the most popular bands and artists of all time. A guaranteed crowd-pleaser for every occasion",
+            "slots": [{
+                "title": "Stingray Greatest Hits",
+                "description": "This channel is dedicated to all-time greatest hits by the most popular bands and artists! A guaranteed crowd-pleaser for every occasion.",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p11764180_b_v8_ac.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35981": {
+            "title": "Remember the 80s",
+            "description": "Relive your neon-bright ‘80s memories with the synth-pop sound of stars such as Michael Jackson, George Michael, and Whitney Houston.",
+            "slots": [{
+                "title": "Stingray Remember the '80s",
+                "description": "Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston, is bound to remind you of all your greatest '80s memories!",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p17668850_i_h2_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35976": {
+            "title": "Classic Rock",
+            "description": "Return to the classic rock revolution of the ’60, ‘70s, and ’80 with legends like Janis Joplin, Peter Frampton, and The Rolling Stones.",
+            "slots": [{
+                "title": "Stingray Classic Rock",
+                "description": "Relive the wonders of classic rock; the sound that revolutionized the world of music from the '60s to the '80s. Features the genre's biggest legends such as Janis Joplin, Peter Frampton, and The Rolling Stones.",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p17668554_st_v8_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35975": {
+            "title": "Pop Adult",
+            "description": "A romantic mix of pop adult classics. Features current hit makers like Adele and Maroon 5, and timeless favorites such as U2 and Madonna.",
+            "slots": [{
+                "title": "Stingray Pop Adult",
+                "description": "Give in to your romantic and sentimental side with the best pop adult classics. Features hitmakers like Adele, Maroon 5, Colbie Caillat, and John Mayer, as well as timeless favorites such as U2, Madonna, and Rod Stewart.",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p17668375_st_h9_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35974": {
+            "title": "Rock Alternative",
+            "description": "Experience the intensity of the best alternative rock sound. Features hard-hitting acts like Arcade Fire, Billy Talent, The Black Keys, etc.",
+            "slots": [{
+                "title": "Stingray Alternative",
+                "description": "High energy, ground-breaking new sounds, with roots deep in the rock of ages. Feel the hard intensity of today's best alternative rock sound and be reminded of the beginnings of grunge.",
+                "raiting": "14+",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p18577127_st_h2_aa.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        },
+        "35980": {
+            "title": "Flashback 70's",
+            "description": "Travel back to an explosive decade in music when Abba, Jackson 5, Kool and the Gang, the Bee Gees, and Carole King reigned on the charts.",
+            "slots": [{
+                "title": "Stingray Flashback '70s",
+                "description": "Relive an explosive decade in music: Boogie Nights, Motown and soul, Woodstock and beyond. The best moments from 1968 to 1978: Abba, Jackson 5, Kool and the Gang, the Bee Gees, KC and the Sunshine Band, Carole King and more.",
+                "raiting": "TVPG",
+                "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p8086828_b_s2_ab.jpg",
+                "start": "2021-09-09 06:00:00",
+                "end": "2021-09-09 10:00:00"
+            }]
+        }
+    }
+}
+
+--------------------------------------------------------------------------------
+
+notes:
+  * "getfeed.php" provides all of the "id" values that can be queried
+  * this API endpoint provides epg for any number of "id" values
+
+example:
+  * from "getfeed.php":
+        "1101": {
+            "id": 1101,
+            "content_provider": 22865,
+            "title": "Qello Concerts",
+            "description": "Stingray Qello presents your front-row seat to concerts by your favorite artists, bands, and musicians! Experience the encore with thrilling concert-films and get up close and personal with award-winning documentaries.",
+            "type": "live",
+            "seasons": [{
+                "id": 1182,
+                "episodes": [{
+                    "id": 35967,
+                    "content": {
+                        "url": "https:\/\/d35j504z0x2vu2.cloudfront.net\/v1\/master\/0bc8e8376bd8417a1b6761138aa41c26c7309312\/stingray\/qello-qello001-montreal\/distrotv\/master.m3u8?ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.client_ip=__CLIENT_IP__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.appCategory=__APP_CATEGORY__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.contentid=__CONTENT_PROVIDER__&ads.contenturl=__PAGEURL_ESC__&ads.rnd=__CACHE_BUSTER__&ads.content_duration=18000&ads.episode_id=__EPISODE__&ads.show_id=__SHOW__&ads.showtitle=__SHOW_TITLE__&ads.episodetitle=__EPISODE_TITLE__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.app_version=__APP_VERSION__&ads.deviceMake=__DEVICE__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.keywords=__SHOW_KEYWORDS__&ads.showCategories=__SHOW_CATEGORIES__&ads.episodeCategories=__EPISODE_CATEGORIES__&dai=z5hXv__5S4uwrtOBjAahlQ",
+                    }
+                }]
+            }]
+        },
+  * this API endpoint:
+    https://tv.jsrdn.com/epg/query.php?range=current&id=35967
+        "35967": {
+            "title": "Qello",
+            "description": "Stingray Qello presents your front-row seat to concerts by your favorite artists, bands, and musicians! Experience the encore with thrilling concert-films and get up close and personal with award-winning documentaries.",
+            "slots": [{
+                "title": "Limp Bizkit - Main Square 2011",
+                "description": "Limp Bizkit live concert at Main Square festival 2011.",
+                "start": "2021-09-09 05:30:00",
+                "end": "2021-09-09 06:33:00"
+            }]
+        },
+
+--------------------------------------------------------------------------------
+
+https://tv.jsrdn.com/epg/query.php?id=35967&range=now,9h
+
+{
+    "version": "1.0",
+    "env": {
+        "st": "2021-09-09 09:46:35"
+    },
+    "epg": {
+        "35967": {
+            "title": "Qello",
+            "description": "Stingray Qello presents your front-row seat to concerts by your favorite artists, bands, and musicians! Experience the encore with thrilling concert-films and get up close and personal with award-winning documentaries.",
+            "slots": [{
+                    "title": "Charles Bradley - Charles Bradley - Musiques en Stock 2016",
+                    "description": "Rooting his music in funk, soul and R&B, Charles Bradley is hailed for shaping the contagious sound of Daptone Records.",
+                    "raiting": null,
+                    "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p18750900_i_h8_aa.jpg",
+                    "start": "2021-09-09 08:59:00",
+                    "end": "2021-09-09 10:59:00"
+                },
+                {
+                    "title": "Tony Bennett - Live at the iTunes Festival",
+                    "description": "Legendary performer Tony Bennett made his debut appearance at London's iTunes Fest at the Roundhouse and this stellar performance features the multi-Grammy award winner performing his biggest hits, among them, The Best Is Yet To Come, Fly Me to the Moon, and his signature song I Left My Heart in San Francisco.",
+                    "raiting": null,
+                    "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p19646406_st_v8_aa.jpg",
+                    "start": "2021-09-09 10:59:00",
+                    "end": "2021-09-09 12:29:00"
+                },
+                {
+                    "title": "Main Square Festival 2016",
+                    "description": "Watch Jake Bugg's performance live at Main Square Festival in 2016.",
+                    "raiting": null,
+                    "img_thumbh": null,
+                    "start": "2021-09-09 12:29:00",
+                    "end": "2021-09-09 13:59:00"
+                },
+                {
+                    "title": "Two Door Cinema Club - Musilac 2017",
+                    "description": "Watch Two Door Cinema Club's performance live at Musilac Music Festival in 2017.",
+                    "raiting": null,
+                    "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p18513776_st_h9_aa.jpg",
+                    "start": "2021-09-09 13:59:00",
+                    "end": "2021-09-09 15:04:00"
+                },
+                {
+                    "title": "AC\/DC - Hell's Highway",
+                    "description": "Hell's Highway, a great live performance from AC\/DC.",
+                    "raiting": null,
+                    "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p19173575_st_v8_aa.jpg",
+                    "start": "2021-09-09 15:04:00",
+                    "end": "2021-09-09 15:29:00"
+                },
+                {
+                    "title": "Radiohead - Live at Glastonbury Festival",
+                    "description": "Glastonbury Festival of Contemporary Performing Arts, is the second largest open-air music festival in the world. Known mainly for its musical performances, it also features attractions of dance, humor, theater, circus. Featuring: Radiohead.",
+                    "raiting": null,
+                    "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p20214698_st_v8_aa.jpg",
+                    "start": "2021-09-09 15:29:00",
+                    "end": "2021-09-09 17:59:00"
+                },
+                {
+                    "title": "Pearl Jam - Let's Play Two",
+                    "description": "Let's Play Two is a documentary film that chronicles Pearl Jam's performances at Wrigley Field during the Chicago Cubs 2016 season. With Chicago being a hometown to Eddie Vedder, Pearl Jam's relationship with the city, the Cubs and Wrigley Field is unparalleled in the world of sports and music.",
+                    "raiting": null,
+                    "img_thumbh": "https:\/\/demo.tmsimg.com\/assets\/p19646381_st_v8_aa.jpg",
+                    "start": "2021-09-09 17:59:00",
+                    "end": "2021-09-09 20:29:00"
+                }
+            ]
+        }
+    }
+}
+
+--------------------------------------------------------------------------------

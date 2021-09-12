@@ -1,0 +1,60 @@
+--------------------------------------------------------------------------------
+
+epg: timezone offset
+
+notes:
+  * as demonstrated by:
+    - file: 2-network-trace.txt
+      json: {"env": {"st": "2021-09-09 06:14:02"}}
+  * rerunning this query:
+    - on: 9/9/2021
+      at: 6:00pm PDT (US-west, GMT-7)
+    - produces: {"env": {"st": "2021-09-10 01:00:00"}}
+
+js:
+    offset   = new Date() - new Date("2021-09-10 01:00:00")
+    offset === new Date("2021-09-09 18:00:00") - new Date("2021-09-10 01:00:00")
+    offset === -25200000
+    offset === -(1000 ms/sec)(60 sec/min)(60 min/hr)(7 hr) === -(1000*60*60*7)
+
+notes:
+  * this confirms that all times are given by GMT+0
+    and need to be adjusted for display using the local timezone
+
+example:
+  * https://tv.jsrdn.com/epg/query.php?id=35967&range=current
+    {
+        "env": {
+            "st": "2021-09-10 01:00:00"
+        },
+        "epg": {
+            "35967": {
+                "title": "Qello",
+                "description": "Stingray Qello presents your front-row seat to concerts by your favorite artists, bands, and musicians! Experience the encore with thrilling concert-films and get up close and personal with award-winning documentaries.",
+                "slots": [{
+                    "title": "Daddy Yankee - Viña del Mar 2006",
+                    "description": "The undisputed master of reggaeton, Puerto Rican DADDY YANKEE, during his applauded performance at the 2006 Viña del Mar International Song Festival.",
+                    "start": "2021-09-10 00:29:00",
+                    "end": "2021-09-10 01:59:00"
+                }]
+            }
+        }
+    }
+
+js:
+    offset   = -25200000
+    start    = new Date((new Date("2021-09-10 00:29:00")).getTime() + offset)
+    end      = new Date((new Date("2021-09-10 01:59:00")).getTime() + offset)
+    duration = (end - start)
+
+    start    === "Thu Sep 09 2021 17:29:00 GMT-0700 (Pacific Daylight Time)"
+             === 9/9/2021 @ 5:29pm PDT
+    end      === "Thu Sep 09 2021 18:59:00 GMT-0700 (Pacific Daylight Time)"
+             === 9/9/2021 @ 6:59pm PDT
+    duration === 5400000
+             === (5400000 ms)(1 sec / 1000 ms)(1 min / 60 sec)(1 hr / 60 min)
+             === (5400000 / (1000*60*60)) hr
+             === (5400000 / 3600000) hr
+             === 1.5 hr
+
+--------------------------------------------------------------------------------

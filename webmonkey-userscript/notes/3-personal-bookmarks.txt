@@ -1,0 +1,55 @@
+[{
+  "id":    45143,
+  "title": "EuroNews",
+  "type":  "live",
+  "url":   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=45143&range=now,4h"
+},{
+  "id":    35967,
+  "title": "Qello Concerts",
+  "type":  "live",
+  "url":   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=35967&range=now,4h"
+},{
+  "id":    35970,
+  "title": "Stingray Classica",
+  "type":  "live",
+  "url":   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=35970&range=now,4h"
+},{
+  "id":    40432,
+  "title": "Channel Fight",
+  "type":  "live",
+  "url":   "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114&live=1&app_bundle=com.ottera.tv&did=distro_testing&app_domain=app.ottera.tv&app_name=distro&custom4=distro",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=40432&range=now,4h"
+},{
+  "id":    47646,
+  "title": "Best of British TV",
+  "type":  "live",
+  "url":   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/3a3d99c1fb/%2b0000/c.m3u8",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=47646&range=now,4h"
+},{
+  "id":    51308,
+  "title": "Documentary+",
+  "type":  "live",
+  "url":   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/44499e8baf/%2B0000/c.m3u8",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=51308&range=now,4h"
+},{
+  "id":    40434,
+  "title": "Cooking Panda",
+  "type":  "live",
+  "url":   "https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=40434&range=now,4h"
+},{
+  "id":    56784,
+  "title": "Billiard TV",
+  "type":  "live",
+  "url":   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=56784&range=now,4h"
+},{
+  "id":    51848,
+  "title": "Quietude 4K",
+  "type":  "live",
+  "url":   "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8",
+  "epg":   "https://tv.jsrdn.com/epg/query.php?id=51848&range=now,4h"
+}]
